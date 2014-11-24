@@ -7,6 +7,7 @@
 
 [**Craftsmanship and Ethics** by Robert Martin ](http://www.infoq.com/presentations/craftmanship-ethics) (software craftsmanship, clean code)
 
-
 [**DevOps Culture and Practices To Create Flow** by Jez Humble](https://www.youtube.com/watch?v=oX8af9kLhlk) (devops, lean thinking, continuous delivery)
+
+[**Team Leadership in the Age of Internet** by Roy Osherove ](http://www.infoq.com/presentations/Team-Leadership-in-the-Age-of-Internet) (leadership, people)
 
