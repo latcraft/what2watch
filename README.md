@@ -11,3 +11,7 @@
 
 [**Team Leadership in the Age of Internet** by Roy Osherove ](http://www.infoq.com/presentations/Team-Leadership-in-the-Age-of-Internet) (leadership, people)
 
+[**Clean Architecture** by Robert Martin ](https://vimeo.com/43612849) (software architecture)
+
+
+
