@@ -5,3 +5,5 @@
 
 [**Hammock Driven Development** by Rich Hickey ](https://www.youtube.com/watch?v=f84n5oFoZBc) (problem solving, personal effectiveness)
 
+[**Craftsmanship and Ethics** by Robert Martin ](http://www.infoq.com/presentations/craftmanship-ethics) (software craftsmanship, clean code)
+
