@@ -15,5 +15,6 @@
 
 [**The UNIX Operating System** by AT&T](https://www.youtube.com/watch?v=tc4ROCJYbm0) (fundamentals of UNIX philosophy)
 
+[**Mac holywars**](https://www.youtube.com/watch?v=FhWtJ2OwZ4A) (just for fun :D)
 
 
