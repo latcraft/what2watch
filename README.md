@@ -13,5 +13,7 @@
 
 [**Clean Architecture** by Robert Martin ](https://vimeo.com/43612849) (software architecture)
 
+[**The UNIX Operating System** by AT&T](https://www.youtube.com/watch?v=tc4ROCJYbm0) (fundamentals of UNIX philosophy)
+
 
 
