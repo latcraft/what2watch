@@ -15,5 +15,7 @@
 
 [**AWS Innovation at Scale** by James Hamilton](https://www.youtube.com/watch?v=JIQETrFC_SQ) (clouds, infrastructure, innovation)
 
+[**The UNIX Operating System** by AT&T](https://www.youtube.com/watch?v=tc4ROCJYbm0) (unix, history)
+
 
 
