@@ -13,5 +13,7 @@
 
 [**Clean Architecture** by Robert Martin ](https://vimeo.com/43612849) (software architecture)
 
+[**AWS Innovation at Scale** by James Hamilton](https://www.youtube.com/watch?v=JIQETrFC_SQ) (clouds, infrastructure, innovation)
+
 
 
