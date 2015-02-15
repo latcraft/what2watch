@@ -17,5 +17,7 @@
 
 [**The UNIX Operating System** by AT&T](https://www.youtube.com/watch?v=tc4ROCJYbm0) (unix, history)
 
+[**The Art of the Start** by Guy Kawasaki](https://www.youtube.com/watch?v=jSlwuafyUUo) (inspiration, starting up business)
+
 
 
