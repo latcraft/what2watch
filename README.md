@@ -23,5 +23,6 @@
 
 [**The Top 10 Mistakes of Entrepreneurs** with Guy Kawasaki](https://www.youtube.com/watch?v=Oe5c9KK3ZIs) (inspiration, entrepreneurship)
 
+[**Make Impacts Not Software** by Gojko Adzic](https://www.youtube.com/watch?v=GnK_n9Udhhs) (requirement, agile planning, impact mapping)
 
 
