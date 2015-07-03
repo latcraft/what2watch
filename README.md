@@ -25,4 +25,6 @@
 
 [**Make Impacts Not Software** by Gojko Adzic](https://www.youtube.com/watch?v=GnK_n9Udhhs) (requirement, agile planning, impact mapping)
 
+[**The Death of Agile** by Allen Holub](https://www.youtube.com/watch?v=vSnCeJEka_s) (scrum, agile church)
+
 
