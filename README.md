@@ -31,5 +31,6 @@
 
 [**42 IntelliJ IDEA Tips and Tricks in 45 Minutes** by Seine B](https://www.voxxed.com/blog/presentation/presentation-42-intellij-idea-tips-tricks-45-minutes) (effective coding, java)
 
+[**Functional Reactive Programming in the Netflix API** by Ben Christensen](http://www.infoq.com/presentations/Netflix-API-rxjava-hystrix) (reactive programming, java, rxjava)
 
 
