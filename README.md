@@ -29,4 +29,7 @@
 
 [**The Death of Agile** by Allen Holub](https://www.youtube.com/watch?v=vSnCeJEka_s) (scrum, agile church)
 
+[**42 IntelliJ IDEA Tips and Tricks in 45 Minutes** by Seine B](https://www.voxxed.com/blog/presentation/presentation-42-intellij-idea-tips-tricks-45-minutes) (effective coding, java)
+
+
 
