@@ -33,4 +33,5 @@
 
 [**Functional Reactive Programming in the Netflix API** by Ben Christensen](http://www.infoq.com/presentations/Netflix-API-rxjava-hystrix) (reactive programming, java, rxjava)
 
+[**How I finally stopped worrying and learnt to love Conway’s Law** by James Lewis](https://www.youtube.com/watch?v=l1tyfb5we7I) (software architecture, lean enterprise)
 
