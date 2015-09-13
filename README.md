@@ -35,3 +35,6 @@
 
 [**How I finally stopped worrying and learnt to love Conway’s Law** by James Lewis](https://www.youtube.com/watch?v=l1tyfb5we7I) (software architecture, lean enterprise)
 
+[**Making Badass Developers** by Kathy Sierra](https://www.youtube.com/watch?v=FKTxC9pl-WM) (personal effectiveness)
+
+
