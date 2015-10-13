@@ -7,6 +7,8 @@
 
 [**Hammock Driven Development** by Rich Hickey ](https://www.youtube.com/watch?v=f84n5oFoZBc) (problem solving, personal effectiveness)
 
+[**Are We There Yet** by Rich Hickey ](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) (software architecture, tradeoffs, complexity)
+
 [**Craftsmanship and Ethics** by Robert Martin ](http://www.infoq.com/presentations/craftmanship-ethics) (software craftsmanship, clean code)
 
 [**Ease at Work** by Kent Beck ](http://www.infoq.com/presentations/self-image) (software craftsmanship, professionalism)
