@@ -11,6 +11,8 @@
 
 [**Craftsmanship and Ethics** by Robert Martin ](http://www.infoq.com/presentations/craftmanship-ethics) (software craftsmanship, clean code)
 
+[**The Reasonable Expectations of Your CTO** by Robert Martin ](https://vimeo.com/54025415) (software craftsmanship, professionalism)
+
 [**Ease at Work** by Kent Beck ](http://www.infoq.com/presentations/self-image) (software craftsmanship, professionalism)
 
 [**DevOps Culture and Practices To Create Flow** by Jez Humble](https://www.youtube.com/watch?v=oX8af9kLhlk) (devops, lean thinking, continuous delivery)
