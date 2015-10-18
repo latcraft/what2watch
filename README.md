@@ -27,7 +27,9 @@
 
 [**The Art of the Start** by Guy Kawasaki](https://www.youtube.com/watch?v=jSlwuafyUUo) (inspiration, entrepreneurship)
 
-[**The Top 10 Mistakes of Entrepreneurs** with Guy Kawasaki](https://www.youtube.com/watch?v=Oe5c9KK3ZIs) (inspiration, entrepreneurship)
+[**The Top 10 Mistakes of Entrepreneurs by Guy Kawasaki](https://www.youtube.com/watch?v=Oe5c9KK3ZIs) (inspiration, entrepreneurship)
+
+[**Organize for Complexity** by Niels Pflaeging](https://www.youtube.com/watch?v=KhTGpgNz0N8) (lean enterprise, organisations, complexity)
 
 [**Make Impacts Not Software** by Gojko Adzic](https://www.youtube.com/watch?v=GnK_n9Udhhs) (requirement, agile planning, impact mapping)
 
