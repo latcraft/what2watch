@@ -9,9 +9,13 @@
 
 [**Are We There Yet** by Rich Hickey ](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) (software architecture, tradeoffs, complexity)
 
+[**The Language of the System** by Rich Hickey](https://www.youtube.com/watch?v=ROor6_NGIWU) (software architecture)
+
 [**Craftsmanship and Ethics** by Robert Martin ](http://www.infoq.com/presentations/craftmanship-ethics) (software craftsmanship, clean code)
 
-[**The Reasonable Expectations of Your CTO** by Robert Martin ](https://vimeo.com/54025415) (software craftsmanship, professionalism)
+[**The Reasonable Expectations of Your CTO** by Robert Martin](https://vimeo.com/54025415) (software craftsmanship, professionalism)
+
+[**Software Craftsmanship** by Sandro Mancuso](https://www.youtube.com/watch?v=-czaKO_8jc4) (software craftsmanship, professionalims)
 
 [**Ease at Work** by Kent Beck ](http://www.infoq.com/presentations/self-image) (software craftsmanship, professionalism)
 
@@ -23,13 +27,19 @@
 
 [**Clean Architecture** by Robert Martin ](https://vimeo.com/43612849) (software architecture)
 
+[**The Economics of Software Design** by J. B. Rainsberger](https://www.youtube.com/watch?v=7HecgbghFTk) (technical debt)
+
 [**AWS Innovation at Scale** by James Hamilton](https://www.youtube.com/watch?v=JIQETrFC_SQ) (clouds, infrastructure, innovation)
 
 [**The UNIX Operating System** by AT&T](https://www.youtube.com/watch?v=tc4ROCJYbm0) (unix, history)
 
+**Is TDD dead?** by David Heinemeier Hansson, Kent Beck and Martin Fowler [(Part I)](https://www.youtube.com/watch?v=z9quxZsLcfo) [(Part II)](https://www.youtube.com/watch?v=JoTB2mcjU7w) [(Part III)](https://www.youtube.com/watch?v=YNw4baDz6WA) [(Part IV)](https://www.youtube.com/watch?v=dGtasFJnUxI) [(Part V and VI)](https://www.youtube.com/watch?v=dGtasFJnUxI)
+
+[**Steve Jobs building NeXT**](https://www.youtube.com/watch?v=WHsHKzYOV2E) (apple, mac, history)
+
 [**The Art of the Start** by Guy Kawasaki](https://www.youtube.com/watch?v=jSlwuafyUUo) (inspiration, entrepreneurship)
 
-[**The Top 10 Mistakes of Entrepreneurs by Guy Kawasaki](https://www.youtube.com/watch?v=Oe5c9KK3ZIs) (inspiration, entrepreneurship)
+[**The Top 10 Mistakes of Entrepreneurs** by Guy Kawasaki](https://www.youtube.com/watch?v=Oe5c9KK3ZIs) (inspiration, entrepreneurship)
 
 [**Organize for Complexity** by Niels Pflaeging](https://www.youtube.com/watch?v=KhTGpgNz0N8) (lean enterprise, organisations, complexity)
 
@@ -45,4 +55,11 @@
 
 [**Making Badass Developers** by Kathy Sierra](https://www.youtube.com/watch?v=FKTxC9pl-WM) (personal effectiveness)
 
+[**The Humane Representation of Thought** by Bret Victor](https://vimeo.com/115154289) (human-computer interaction)
+
+[**The Future of Programming** by Bret Victor](https://www.youtube.com/watch?v=8pTEmbeENF4) (technology evolution)
+
+[**Infrastructure for Startups** by Paul Hammond](https://www.youtube.com/watch?v=FQ09c6Mfyi0) (infrastructure)
+
+[**Conway's Law and You: How to Organize your Organization for Optimal Development** by Michael Feathers](http://www.ustream.tv/recorded/46640252) (architecture, software development organisation)
 
