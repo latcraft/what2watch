@@ -35,6 +35,8 @@
 
 **Is TDD dead?** by David Heinemeier Hansson, Kent Beck and Martin Fowler [(Part I)](https://www.youtube.com/watch?v=z9quxZsLcfo) [(Part II)](https://www.youtube.com/watch?v=JoTB2mcjU7w) [(Part III)](https://www.youtube.com/watch?v=YNw4baDz6WA) [(Part IV)](https://www.youtube.com/watch?v=dGtasFJnUxI) [(Part V and VI)](https://www.youtube.com/watch?v=dGtasFJnUxI)
 
+[**Does TDD really lead to good design?** by Sandro Mancuso](https://www.youtube.com/watch?v=ApsW72JSVJM) (tdd)
+
 [**Steve Jobs building NeXT**](https://www.youtube.com/watch?v=WHsHKzYOV2E) (apple, mac, history)
 
 [**The Art of the Start** by Guy Kawasaki](https://www.youtube.com/watch?v=jSlwuafyUUo) (inspiration, entrepreneurship)
