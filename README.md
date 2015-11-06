@@ -5,6 +5,8 @@
 
 [**CQRS - but different** by Udi Dahan](https://vimeo.com/131199089) (software architecture, cqrs, event-sourcing)
 
+[**Emergent Design** by Neal Ford](https://www.youtube.com/watch?v=b9kZpbEyJKk) (software architecture)
+
 [**Hammock Driven Development** by Rich Hickey ](https://www.youtube.com/watch?v=f84n5oFoZBc) (problem solving, personal effectiveness)
 
 [**Are We There Yet** by Rich Hickey ](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) (software architecture, tradeoffs, complexity)
@@ -48,6 +50,8 @@
 [**Make Impacts Not Software** by Gojko Adzic](https://www.youtube.com/watch?v=GnK_n9Udhhs) (requirement, agile planning, impact mapping)
 
 [**The Death of Agile** by Allen Holub](https://www.youtube.com/watch?v=vSnCeJEka_s) (scrum, agile church)
+
+[**Game Of Throneware** by Jakub Nabrdalik](https://www.youtube.com/watch?v=EAnPP8hCSCQ) (management 3.0)
 
 [**42 IntelliJ IDEA Tips and Tricks in 45 Minutes** by Seine B](https://www.voxxed.com/blog/presentation/presentation-42-intellij-idea-tips-tricks-45-minutes) (effective coding, java)
 
