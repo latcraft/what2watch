@@ -69,3 +69,4 @@
 
 [**Conway's Law and You: How to Organize your Organization for Optimal Development** by Michael Feathers](http://www.ustream.tv/recorded/46640252) (architecture, software development organisation)
 
+[**Nothing is Something** by Sandi Metz](https://www.youtube.com/watch?v=OMPfEXIlTVE) (object oriented design)
