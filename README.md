@@ -35,7 +35,7 @@
 
 [**The UNIX Operating System** by AT&T](https://www.youtube.com/watch?v=tc4ROCJYbm0) (unix, history)
 
-**Is TDD dead?** by David Heinemeier Hansson, Kent Beck and Martin Fowler [(Part I)](https://www.youtube.com/watch?v=z9quxZsLcfo) [(Part II)](https://www.youtube.com/watch?v=JoTB2mcjU7w) [(Part III)](https://www.youtube.com/watch?v=YNw4baDz6WA) [(Part IV)](https://www.youtube.com/watch?v=dGtasFJnUxI) [(Part V and VI)](https://www.youtube.com/watch?v=dGtasFJnUxI)
+**Is TDD dead?** by David Heinemeier Hansson, Kent Beck and Martin Fowler [(Keynote)](https://www.youtube.com/watch?v=9LfmrkyP81M) [(Part I)](https://www.youtube.com/watch?v=z9quxZsLcfo) [(Part II)](https://www.youtube.com/watch?v=JoTB2mcjU7w) [(Part III)](https://www.youtube.com/watch?v=YNw4baDz6WA) [(Part IV)](https://www.youtube.com/watch?v=dGtasFJnUxI) [(Part V and VI)](https://www.youtube.com/watch?v=dGtasFJnUxI)
 
 [**Does TDD really lead to good design?** by Sandro Mancuso](https://www.youtube.com/watch?v=ApsW72JSVJM) (tdd)
 
