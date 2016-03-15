@@ -13,7 +13,9 @@
 
 [**The Language of the System** by Rich Hickey](https://www.youtube.com/watch?v=ROor6_NGIWU) (software architecture)
 
-[**Craftsmanship and Ethics** by Robert Martin ](http://www.infoq.com/presentations/craftmanship-ethics) (software craftsmanship, clean code)
+[**Craftsmanship and Ethics** by Robert Martin](http://www.infoq.com/presentations/craftmanship-ethics) (software craftsmanship, clean code)
+
+[**Not Just Code Monkeys** by Martin Fowler](https://www.youtube.com/watch?v=4E3xfR6IBII) (professionalism, ethics)
 
 [**The Reasonable Expectations of Your CTO** by Robert Martin](https://vimeo.com/54025415) (software craftsmanship, professionalism)
 
