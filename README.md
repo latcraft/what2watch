@@ -61,7 +61,7 @@
 
 [**How I finally stopped worrying and learnt to love Conway’s Law** by James Lewis](https://www.youtube.com/watch?v=l1tyfb5we7I) (software architecture, lean enterprise)
 
-[**Staying in Sync: from Transactions to Streams**](https://www.infoq.com/presentations/event-streams-kafka) (streaming, kafka, consistency, transactions)
+[**Staying in Sync: from Transactions to Streams** by Martin Kleppmann](https://www.infoq.com/presentations/event-streams-kafka) (streaming, kafka, consistency, transactions)
 
 [**Making Badass Developers** by Kathy Sierra](https://www.youtube.com/watch?v=FKTxC9pl-WM) (personal effectiveness)
 
@@ -74,3 +74,5 @@
 [**Conway's Law and You: How to Organize your Organization for Optimal Development** by Michael Feathers](http://www.ustream.tv/recorded/46640252) (architecture, software development organisation)
 
 [**Nothing is Something** by Sandi Metz](https://www.youtube.com/watch?v=OMPfEXIlTVE) (object oriented design)
+
+[**Core Design Principles for Software Developers** by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI) (design principles, oop)
