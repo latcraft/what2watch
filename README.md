@@ -69,6 +69,8 @@
 
 [**The Humane Representation of Thought** by Bret Victor](https://vimeo.com/115154289) (human-computer interaction)
 
+[**Beyond Software Craftsmanship** by Eduards Sizovs](https://www.youtube.com/watch?v=AEtCEt44vlE) (professionalism, career development)
+
 [**The Future of Programming** by Bret Victor](https://www.youtube.com/watch?v=8pTEmbeENF4) (technology evolution)
 
 [**Infrastructure for Startups** by Paul Hammond](https://www.youtube.com/watch?v=FQ09c6Mfyi0) (infrastructure)
