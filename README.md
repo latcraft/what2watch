@@ -25,6 +25,8 @@
 
 [**DevOps Culture and Practices To Create Flow** by Jez Humble](https://www.youtube.com/watch?v=oX8af9kLhlk) (devops, lean thinking, continuous delivery)
 
+[**Adopting Continuous Delivery** by Jez Humble](https://www.youtube.com/watch?v=ZLBhVEo1OG4) (devops, lean thinking, continuous delivery)
+
 [**Team Leadership in the Age of Internet** by Roy Osherove ](http://www.infoq.com/presentations/Team-Leadership-in-the-Age-of-Internet) (leadership, people)
 
 [**Self-Organization: The Secret Sauce for Improving your Scrum team** by Jeff Sutherland](https://www.youtube.com/watch?v=M1q6b9JI2Wc) (scrum, coaching, self-organisation) 
