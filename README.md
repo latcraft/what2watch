@@ -45,6 +45,8 @@
 
 [**Steve Jobs building NeXT**](https://www.youtube.com/watch?v=WHsHKzYOV2E) (apple, mac, history)
 
+[**Madam Sandi Tells Your Future** by Sandi Metz](https://www.youtube.com/watch?v=JOM5_V5jLAs) (history, inspiration)
+
 [**The Art of the Start** by Guy Kawasaki](https://www.youtube.com/watch?v=jSlwuafyUUo) (inspiration, entrepreneurship)
 
 [**The Top 10 Mistakes of Entrepreneurs** by Guy Kawasaki](https://www.youtube.com/watch?v=Oe5c9KK3ZIs) (inspiration, entrepreneurship)
@@ -79,6 +81,7 @@
 
 [**Conway's Law and You: How to Organize your Organization for Optimal Development** by Michael Feathers](http://www.ustream.tv/recorded/46640252) (architecture, software development organisation)
 
-[**Nothing is Something** by Sandi Metz](https://www.youtube.com/watch?v=OMPfEXIlTVE) (object oriented design)
+[**Nothing is Something** by 
+Metz](https://www.youtube.com/watch?v=OMPfEXIlTVE) (object oriented design)
 
 [**Core Design Principles for Software Developers** by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI) (design principles, oop)
