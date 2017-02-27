@@ -81,11 +81,8 @@
 
 [**Conway's Law and You: How to Organize your Organization for Optimal Development** by Michael Feathers](http://www.ustream.tv/recorded/46640252) (architecture, software development organisation)
 
-[**Nothing is Something** by 
-Metz](https://www.youtube.com/watch?v=OMPfEXIlTVE) (object oriented design)
+[**Nothing is Something** by Sandi Metz](https://www.youtube.com/watch?v=OMPfEXIlTVE) (object oriented design)
 
-
-[**All the Little Things** by 
-Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE) (object oriented design)
+[**All the Little Things** by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE) (object oriented design)
 
 [**Core Design Principles for Software Developers** by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI) (design principles, oop)
