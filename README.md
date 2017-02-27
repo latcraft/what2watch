@@ -84,4 +84,8 @@
 [**Nothing is Something** by 
 Metz](https://www.youtube.com/watch?v=OMPfEXIlTVE) (object oriented design)
 
+
+[**All the Little Things** by 
+Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE) (object oriented design)
+
 [**Core Design Principles for Software Developers** by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI) (design principles, oop)
