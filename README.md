@@ -29,6 +29,8 @@
 
 [**Team Leadership in the Age of Internet** by Roy Osherove ](http://www.infoq.com/presentations/Team-Leadership-in-the-Age-of-Internet) (leadership, people)
 
+[**Ten Mistakes Team Leaders Make** by Roy Osherove ](https://www.youtube.com/watch?v=qhjXc6niO3k) (leadership, people)
+
 [**Self-Organization: The Secret Sauce for Improving your Scrum team** by Jeff Sutherland](https://www.youtube.com/watch?v=M1q6b9JI2Wc) (scrum, coaching, self-organisation) 
 
 [**Clean Architecture** by Robert Martin ](https://vimeo.com/43612849) (software architecture)
