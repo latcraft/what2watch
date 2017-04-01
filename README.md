@@ -88,3 +88,5 @@
 [**All the Little Things** by Sandi Metz](https://www.youtube.com/watch?v=8bZh5LMaSmE) (object oriented design)
 
 [**Core Design Principles for Software Developers** by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI) (design principles, oop)
+
+[**Scaling Yourself** by Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U)(effectiveness, efficiency)
