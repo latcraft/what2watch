@@ -35,6 +35,8 @@
 
 [**Clean Architecture** by Robert Martin ](https://vimeo.com/43612849) (software architecture)
 
+[**Career Development** by Theo Schlossnagle](https://www.youtube.com/watch?v=y0mHo7SMCQk) (ops, devops, career)
+
 [**The Economics of Software Design** by J. B. Rainsberger](https://www.youtube.com/watch?v=7HecgbghFTk) (technical debt)
 
 [**AWS Innovation at Scale** by James Hamilton](https://www.youtube.com/watch?v=JIQETrFC_SQ) (clouds, infrastructure, innovation)
