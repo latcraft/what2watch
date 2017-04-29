@@ -1,5 +1,5 @@
 
-[**Architecture All the Way Down** by Kirk Knoernschild ](https://www.parleys.com/tutorial/architecture-all-way-down) (software architecture, modularity patterns, Java)
+[**Architecture All the Way Down** by Kirk Knoernschild ](https://www.youtube.com/watch?v=TaFNhNNua5c) (software architecture, modularity patterns, Java)
 
 [**Simple Made Easy** by Rich Hickey ](http://www.infoq.com/presentations/Simple-Made-Easy) (software architecture, tradeoffs, complexity)
 
