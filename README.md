@@ -1,3 +1,5 @@
+[![Conference attendee](https://devternity.com/shields/fellow.svg)](https://devternity.com)
+
 
 [**Architecture All the Way Down** by Kirk Knoernschild ](https://www.parleys.com/tutorial/architecture-all-way-down) (software architecture, modularity patterns, Java)
 
