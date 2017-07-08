@@ -1,7 +1,7 @@
 [![Conference attendee](https://devternity.com/shields/fellow.svg)](https://devternity.com)
 
 
-[**Architecture All the Way Down** by Kirk Knoernschild ](https://www.youtube.com/watch?v=TaFNhNNua5c) (software architecture, modularity patterns, Java)
+[**Architecture All the Way Down** by Kirk Knoernschild](https://www.youtube.com/watch?v=TaFNhNNua5c) (software architecture, modularity patterns, Java)
 
 [**Simple Made Easy** by Rich Hickey ](http://www.infoq.com/presentations/Simple-Made-Easy) (software architecture, tradeoffs, complexity)
 
@@ -93,6 +93,8 @@
 
 [**Core Design Principles for Software Developers** by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI) (design principles, oop)
 
-[**Scaling Yourself** by Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U)(effectiveness, efficiency)
+[**Scaling Yourself** by Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U) (effectiveness, efficiency)
 
-[**The Website Obesity Crisis** by Maciej Ceglowski](https://vimeo.com/147806338)(web, ux)
+[**The Website Obesity Crisis** by Maciej Ceglowski](https://vimeo.com/147806338) (web, ux)
+
+[**XDSD: Meetings-Free Software Development Methodology** by Yegor Bugayenko](https://www.youtube.com/watch?v=rwpV62G7hTE) (work organisation, remote, distributed software development)
