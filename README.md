@@ -3,15 +3,15 @@
 
 [**Architecture All the Way Down** by Kirk Knoernschild](https://www.youtube.com/watch?v=TaFNhNNua5c) (software architecture, modularity patterns, Java)
 
-[**Simple Made Easy** by Rich Hickey ](http://www.infoq.com/presentations/Simple-Made-Easy) (software architecture, tradeoffs, complexity)
+[**Simple Made Easy** by Rich Hickey](http://www.infoq.com/presentations/Simple-Made-Easy) (software architecture, tradeoffs, complexity)
 
 [**CQRS - but different** by Udi Dahan](https://vimeo.com/131199089) (software architecture, cqrs, event-sourcing)
 
 [**Emergent Design** by Neal Ford](https://www.youtube.com/watch?v=b9kZpbEyJKk) (software architecture)
 
-[**Hammock Driven Development** by Rich Hickey ](https://www.youtube.com/watch?v=f84n5oFoZBc) (problem solving, personal effectiveness)
+[**Hammock Driven Development** by Rich Hickey](https://www.youtube.com/watch?v=f84n5oFoZBc) (problem solving, personal effectiveness)
 
-[**Are We There Yet** by Rich Hickey ](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) (software architecture, tradeoffs, complexity)
+[**Are We There Yet** by Rich Hickey](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) (software architecture, tradeoffs, complexity)
 
 [**The Language of the System** by Rich Hickey](https://www.youtube.com/watch?v=ROor6_NGIWU) (software architecture)
 
@@ -98,3 +98,4 @@
 [**The Website Obesity Crisis** by Maciej Ceglowski](https://vimeo.com/147806338) (web, ux)
 
 [**XDSD: Meetings-Free Software Development Methodology** by Yegor Bugayenko](https://www.youtube.com/watch?v=rwpV62G7hTE) (work organisation, remote, distributed software development)
+[**Peer to Peer Salary Review in a Corpo: Case Study** by Jakub Nabrdalik](https://www.youtube.com/watch?v=vQMYjpjpelg&t=2s) (salary, promotions, fairness)
