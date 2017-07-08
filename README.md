@@ -94,3 +94,5 @@
 [**Core Design Principles for Software Developers** by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI) (design principles, oop)
 
 [**Scaling Yourself** by Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U)(effectiveness, efficiency)
+
+[**The Website Obesity Crisis** by Maciej Ceglowski](https://vimeo.com/147806338)(web, ux)
