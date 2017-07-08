@@ -98,4 +98,5 @@
 [**The Website Obesity Crisis** by Maciej Ceglowski](https://vimeo.com/147806338) (web, ux)
 
 [**XDSD: Meetings-Free Software Development Methodology** by Yegor Bugayenko](https://www.youtube.com/watch?v=rwpV62G7hTE) (work organisation, remote, distributed software development)
+
 [**Peer to Peer Salary Review in a Corpo: Case Study** by Jakub Nabrdalik](https://www.youtube.com/watch?v=vQMYjpjpelg&t=2s) (salary, promotions, fairness)
