@@ -1,4 +1,4 @@
-[![Conference attendee](https://devternity.com/shields/fellow.svg)](https://devternity.com)
+[![Conference recommends](https://devternity.com/shields/recommends.svg)](https://devternity.com)
 
 
 [**Architecture All the Way Down** by Kirk Knoernschild](https://www.youtube.com/watch?v=TaFNhNNua5c) (software architecture, modularity patterns, Java)
