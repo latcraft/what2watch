@@ -102,3 +102,5 @@
 [**Peer to Peer Salary Review in a Corpo: Case Study** by Jakub Nabrdalik](https://www.youtube.com/watch?v=vQMYjpjpelg&t=2s) (salary, promotions, fairness)
 
 [**Seven Ineffective Coding Habits of Many Programmers** by Kevlin Henney](https://www.youtube.com/watch?v=SUIUZ09mnwM) (clean coding, tricks, habits)
+
+[**Hack Your Career** by Troy Hunt](https://www.youtube.com/watch?v=-MUhcgXBj_A) (career development, nomadic lifestyle, self-employment)
