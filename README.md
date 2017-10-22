@@ -85,6 +85,8 @@
 
 [**Sales 101: Chasing Dreams** by Alex Fridman](https://www.youtube.com/watch?v=sKe-qYxlB4w) (sales, soft skills)
 
+[**Think Fast, Talk Smart: Communication Techniques** by Matt Abrahams](https://www.youtube.com/watch?v=HAnw168huqA) (soft skills)
+
 [**Conway's Law and You: How to Organize your Organization for Optimal Development** by Michael Feathers](http://www.ustream.tv/recorded/46640252) (architecture, software development organisation)
 
 [**Nothing is Something** by Sandi Metz](https://www.youtube.com/watch?v=OMPfEXIlTVE) (object oriented design)
