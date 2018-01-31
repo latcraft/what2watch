@@ -49,8 +49,6 @@
 
 [**Does TDD really lead to good design?** by Sandro Mancuso](https://www.youtube.com/watch?v=ApsW72JSVJM) (tdd)
 
-[**Steve Jobs building NeXT**](https://www.youtube.com/watch?v=WHsHKzYOV2E) (apple, mac, history)
-
 [**Madam Sandi Tells Your Future** by Sandi Metz](https://www.youtube.com/watch?v=JOM5_V5jLAs) (history, inspiration)
 
 [**The Art of the Start** by Guy Kawasaki](https://www.youtube.com/watch?v=jSlwuafyUUo) (inspiration, entrepreneurship)
