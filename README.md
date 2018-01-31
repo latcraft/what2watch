@@ -97,7 +97,7 @@
 
 [**Scaling Yourself** by Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U) (effectiveness, efficiency)
 
-[**The Website Obesity Crisis** by Maciej Ceglowski](https://vimeo.com/147806338) (web, ux)
+[**The Website Obesity Crisis** by Maciej Ceglowski](https://vimeo.com/190908762) (web, ux)
 
 [**XDSD: Meetings-Free Software Development Methodology** by Yegor Bugayenko](https://www.youtube.com/watch?v=rwpV62G7hTE) (work organisation, remote, distributed software development)
 
