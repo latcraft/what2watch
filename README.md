@@ -29,6 +29,8 @@
 
 [**Adopting Continuous Delivery** by Jez Humble](https://www.youtube.com/watch?v=ZLBhVEo1OG4) (devops, lean thinking, continuous delivery)
 
+[**Lean Enterprise** by Barry O'Reilly](https://www.youtube.com/watch?v=pQJxlGUz5xY&t=1444s) (lean thinking, continuous delivery at scale)
+
 [**Team Leadership in the Age of Internet** by Roy Osherove ](http://www.infoq.com/presentations/Team-Leadership-in-the-Age-of-Internet) (leadership, people)
 
 [**Ten Mistakes Team Leaders Make** by Roy Osherove ](https://www.youtube.com/watch?v=qhjXc6niO3k) (leadership, people)
