@@ -82,6 +82,8 @@
 
 [**Beyond Software Craftsmanship** by Eduards Sizovs](https://www.youtube.com/watch?v=AEtCEt44vlE) (professionalism, career development)
 
+[**Integration Tests are a Scam** J.B. Rainsberger](https://www.youtube.com/watch?v=VDfX44fZoMc) (testing, xp)
+
 [**The Future of Programming** by Bret Victor](https://www.youtube.com/watch?v=8pTEmbeENF4) (technology evolution)
 
 [**Infrastructure for Startups** by Paul Hammond](https://www.youtube.com/watch?v=FQ09c6Mfyi0) (infrastructure)
