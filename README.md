@@ -27,6 +27,9 @@
 
 [**DevOps Culture and Practices To Create Flow** by Jez Humble](https://www.youtube.com/watch?v=oX8af9kLhlk) (devops, lean thinking, continuous delivery)
 
+[**The Next Decade of Agile Software Development** by J. B. Rainsberger](https://www.youtube.com/watch?v=HIdRm-0OLDU) (agile, extreme programming)
+
+
 [**Adopting Continuous Delivery** by Jez Humble](https://www.youtube.com/watch?v=ZLBhVEo1OG4) (devops, lean thinking, continuous delivery)
 
 [**Lean Enterprise** by Barry O'Reilly](https://www.youtube.com/watch?v=pQJxlGUz5xY&t=1444s) (lean thinking, continuous delivery at scale)
