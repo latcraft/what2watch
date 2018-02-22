@@ -1,5 +1,8 @@
 [![Conference recommends](https://devternity.com/shields/recommends.svg)](https://devternity.com)
 
+[**Legacy** by Chad Fowler](https://www.youtube.com/watch?v=YruzQgWdv48) (big rewrites, incremental refactoring)
+
+[**How to Become Accomplished** by Chad Fowler](https://www.youtube.com/watch?v=hsIcFf9pnCo) (career development)
 
 [**Architecture All the Way Down** by Kirk Knoernschild](https://www.youtube.com/watch?v=TaFNhNNua5c) (software architecture, modularity patterns, Java)
 
