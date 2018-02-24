@@ -103,6 +103,8 @@
 
 [**Core Design Principles for Software Developers** by Venkat Subramaniam](https://www.youtube.com/watch?v=llGgO74uXMI) (design principles, oop)
 
+[**Towards an Evolutionary Architecture** by Venkat Subramaniam](https://vimeo.com/97537675) (software architecture)
+
 [**Scaling Yourself** by Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U) (effectiveness, efficiency)
 
 [**The Website Obesity Crisis** by Maciej Ceglowski](https://vimeo.com/190908762) (web, ux)
