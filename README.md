@@ -1,5 +1,7 @@
 [![Conference recommends](https://devternity.com/shields/recommends.svg)](https://devternity.com)
 
+[**How Conway's Law is eating your job?,** by Pieter Hintjens](https://www.youtube.com/watch?v=7HECD3eLoVo) (effective work organisation)
+
 [**Legacy** by Chad Fowler](https://www.youtube.com/watch?v=YruzQgWdv48) (big rewrites, incremental refactoring)
 
 [**How to Become Accomplished** by Chad Fowler](https://www.youtube.com/watch?v=hsIcFf9pnCo) (career development)
