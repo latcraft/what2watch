@@ -1,6 +1,8 @@
 [![Conference recommends](https://devternity.com/shields/recommends.svg)](https://devternity.com)
 
-[**How Conway's Law is eating your job?,** by Pieter Hintjens](https://www.youtube.com/watch?v=7HECD3eLoVo) (effective work organisation)
+[**How Conway's Law is eating your job?** by Pieter Hintjens](https://www.youtube.com/watch?v=7HECD3eLoVo) (effective work organisation)
+
+[**115 batshit stupid things you can put on the internet in as fast as I can go** by Dan Tentler](https://www.youtube.com/watch?v=hMtu7vV_HmY) (hacking, entertainment)
 
 [**Legacy** by Chad Fowler](https://www.youtube.com/watch?v=YruzQgWdv48) (big rewrites, incremental refactoring)
 
