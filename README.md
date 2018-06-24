@@ -1,3 +1,5 @@
+## ⚠️ the project has been deprecated in favour of https://dev.tube ###
+
 [![Conference recommends](https://devternity.com/shields/recommends.svg)](https://devternity.com)
 
 [**How Conway's Law is eating your job?** by Pieter Hintjens](https://www.youtube.com/watch?v=7HECD3eLoVo) (effective work organisation)
