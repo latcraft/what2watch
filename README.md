@@ -122,3 +122,5 @@
 [**Seven Ineffective Coding Habits of Many Programmers** by Kevlin Henney](https://www.youtube.com/watch?v=SUIUZ09mnwM) (clean coding, tricks, habits)
 
 [**Hack Your Career** by Troy Hunt](https://www.youtube.com/watch?v=-MUhcgXBj_A) (career development, nomadic lifestyle, self-employment)
+
+[More videos](https://github.com/lucasviola/awesome-tech-videos)
